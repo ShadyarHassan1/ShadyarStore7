@@ -12,7 +12,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://up-ipa.com/uploads/up-ipa.comup-ipa-comSpotify-8-7-12-cydia-cc-G1_ba9c3.ipa</string>
+<string>https://archive.org/download/esign-shadyarstore-4.8.1-1685100274/ESign%20%40shadyarstore_4.8.1_1685100274.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -30,15 +30,15 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>kurd-app.spotify</string>
+<string>p3.xyz.yyyue.esign</string>
 <key>bundle-version</key>
-<string>11.1.2</string>
+<string>4.8.1</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
 <string>
 ✔ Shadyar Store  ✔
-Minecraft
+Esign
 </string>
 </dict> 
 </dict>
